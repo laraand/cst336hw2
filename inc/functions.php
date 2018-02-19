@@ -13,9 +13,9 @@
         $arrlength = count($quotes);
         
         
-        function diaplayQuote(){
+        /*function diaplayQuote(){
             switch()
-        }
+        }*/
         
         function displayRandomPhotoArea() {
             $photoAreas = array("imgs/courage.jpg", "imgs/strength.jpg", "imgs/success.jpg");
